@@ -9,5 +9,8 @@ llm=HuggingFaceEndpoint(
 
 model = ChatHuggingFace(llm=llm)
 
-result = model.invoke("what is capital of india?")
-print(result.content)
+while(True):
+    message = input("Enter a message: ")
+    result = model.invoke(message)
+    print(result)
+
