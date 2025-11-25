@@ -1,0 +1,76 @@
+_id,result_id,winner_dept_name,first_runner_dept_name,second_runner_dept_name,hosting_dept_id,event_id,admin_id,created_at
+6911be982af56e2ab4bfda1a,result_1762770584439,Computer Science and Design,Information Science Engineering,Computer Science Engineering,AK25CSD,AK25EV023,arsh,2025-11-10T10:29:44.439Z
+6911beed2af56e2ab4bfda1b,result_1762770669157,NONE,NONE,Artificial Intelligence and Machine Learning,AK25AIML,AK25EV007,arsh,2025-11-10T10:31:09.157Z
+6911bfee2af56e2ab4bfda1c,result_1762770926649,Computer Science Engineering,Computer Science and Design,Computer Science and Design,AK25CSD,AK25EV026,arsh,2025-11-10T10:35:26.649Z
+6911c0492af56e2ab4bfda1d,result_1762771017369,Computer Science and Design,Electronics and Communication Engineering,Computer Science and Design,AK25CSD,AK25EV027,arsh,2025-11-10T10:36:57.369Z
+6911c07a2af56e2ab4bfda1e,result_1762771066808,Artificial Intelligence and Machine Learning,Artificial Intelligence and Machine Learning,Artificial Intelligence and Machine Learning,AK25AIML,AK25EV010,arsh,2025-11-10T10:37:46.808Z
+6911c0bc2af56e2ab4bfda1f,result_1762771132618,Electronics and Communication Engineering,Artificial Intelligence and Data Science,NONE,AK25ECE,AK25EV043,arsh,2025-11-10T10:38:52.618Z
+6911c0d82af56e2ab4bfda20,result_1762771160251,Artificial Intelligence and Data Science,Electronics and Communication Engineering,NONE,AK25ECE,AK25EV044,arsh,2025-11-10T10:39:20.251Z
+6911c1522af56e2ab4bfda21,result_1762771282243,Electronics and Communication Engineering,Artificial Intelligence and Data Science,Artificial Intelligence and Machine Learning,AK25AIML,AK25EV008,arsh,2025-11-10T10:41:22.243Z
+6911c1912af56e2ab4bfda22,result_1762771345455,Computer Science Engineering,Artificial Intelligence and Machine Learning,Physics cycle,AK25AIML,AK25EV011,arsh,2025-11-10T10:42:25.455Z
+6911c1db2af56e2ab4bfda23,result_1762771419589,Information Science Engineering,Information Science Engineering,Artificial Intelligence and Data Science,AK25ISE,AK25EV033,arsh,2025-11-10T10:43:39.589Z
+6911c1ff2af56e2ab4bfda24,result_1762771455329,Computer Science and Design,Information Science Engineering,Computer Science and Design,AK25ISE,AK25EV034,arsh,2025-11-10T10:44:15.329Z
+6911c2422af56e2ab4bfda25,result_1762771522780,Information Science Engineering,Computer Science and Design,Computer Science Engineering,AK25ISE,AK25EV032,arsh,2025-11-10T10:45:22.780Z
+6911c25a2af56e2ab4bfda26,result_1762771546951,Computer Science and Design,Information Science Engineering,Computer Science and Design,AK25ISE,AK25EV035,arsh,2025-11-10T10:45:46.951Z
+6911c3d72af56e2ab4bfda27,result_1762771927796,Computer Science and Design,Artificial Intelligence and Machine Learning,NONE,AK25CSE,AK25EV048,arsh,2025-11-10T10:52:07.796Z
+6911c4042af56e2ab4bfda28,result_1762771972578,Artificial Intelligence and Machine Learning,Computer Science and Business Systems,NONE,AK25CSBS,AK25EV020,arsh,2025-11-10T10:52:52.578Z
+6911c43d2af56e2ab4bfda29,result_1762772029859,Computer Science and Business Systems,Electronics and Communication Engineering,NONE,AK25CSBS,AK25EV022,arsh,2025-11-10T10:53:49.859Z
+6911c4532af56e2ab4bfda2a,result_1762772051851,Electronics and Communication Engineering,Computer Science and Business Systems,NONE,AK25CSBS,AK25EV019,arsh,2025-11-10T10:54:11.851Z
+6911c47b2af56e2ab4bfda2b,result_1762772091809,NONE,Computer Science and Business Systems,NONE,AK25CSBS,AK25EV021,arsh,2025-11-10T10:54:51.809Z
+6911c4982af56e2ab4bfda2c,result_1762772120220,Computer Science and Design,Computer Science and Business Systems,NONE,AK25CSBS,AK25EV018,arsh,2025-11-10T10:55:20.220Z
+6911c4e32af56e2ab4bfda2d,result_1762772195363,NONE,Computer Science Engineering,NONE,AK25CSE,AK25EV049,arsh,2025-11-10T10:56:35.363Z
+6911c5032af56e2ab4bfda2e,result_1762772227989,Electrical and Electronics Engineering,Artificial Intelligence and Data Science,NONE,AK25EEE,AK25EV041,arsh,2025-11-10T10:57:07.989Z
+6911c5232af56e2ab4bfda2f,result_1762772259908,Artificial Intelligence and Machine Learning,Artificial Intelligence and Machine Learning,Artificial Intelligence and Machine Learning,AK25AIML,AK25EV009,arsh,2025-11-10T10:57:39.908Z
+6911c5972af56e2ab4bfda30,result_1762772375882,Computer Science Engineering,Computer Science Engineering,NONE,AK25CSE,AK25EV050,arsh,2025-11-10T10:59:35.882Z
+6911c5d82af56e2ab4bfda31,result_1762772440425,Computer Science and Design,Computer Science Engineering,Artificial Intelligence and Data Science,AK25CSD,AK25EV025,arsh,2025-11-10T11:00:40.425Z
+6911c62b2af56e2ab4bfda32,result_1762772523223,Computer Science and Design,Information Science Engineering,Computer Science and Design,AK25CSD,AK25EV024,arsh,2025-11-10T11:02:03.223Z
+6911c6432af56e2ab4bfda33,result_1762772547043,Artificial Intelligence and Machine Learning,Computer Science Engineering,Artificial Intelligence and Machine Learning,AK25AIML,AK25EV012,arsh,2025-11-10T11:02:27.043Z
+6911c6942af56e2ab4bfda34,result_1762772628752,Computer Science Engineering,Artificial Intelligence and Data Science,Artificial Intelligence and Data Science,AK25ISE,AK25EV036,arsh,2025-11-10T11:03:48.752Z
+6911c6ac2af56e2ab4bfda35,result_1762772652012,Marine Engineering,Artificial Intelligence and Data Science,Electronics and Communication Engineering,AK25EEE,AK25EV037,arsh,2025-11-10T11:04:12.012Z
+6911c6c22af56e2ab4bfda36,result_1762772674380,Electronics and Communication Engineering,NONE,NONE,AK25EEE,AK25EV040,arsh,2025-11-10T11:04:34.380Z
+6911c71d2af56e2ab4bfda37,result_1762772765546,Artificial Intelligence and Data Science,NONE,Electrical and Electronics Engineering,AK25ECE,AK25EV039,arsh,2025-11-10T11:06:05.546Z
+6911c72e2af56e2ab4bfda38,result_1762772782688,Artificial Intelligence and Data Science,Electrical and Electronics Engineering,NONE,AK25EEE,AK25EV038,arsh,2025-11-10T11:06:22.688Z
+6911c7a02af56e2ab4bfda39,result_1762772896232,Marine Engineering,Marine Engineering,NONE,AK25MR,AK25EV065,arsh,2025-11-10T11:08:16.232Z
+6911c7c22af56e2ab4bfda3a,result_1762772930232,NONE,Computer Science Engineering,NONE,AK25EEE,AK25EV042,arsh,2025-11-10T11:08:50.232Z
+6911c7dd2af56e2ab4bfda3b,result_1762772957416,NONE,Artificial Intelligence and Machine Learning,NONE,AK25MR,AK25EV067,arsh,2025-11-10T11:09:17.416Z
+6911c8fb2af56e2ab4bfda3c,result_1762773243343,Marine Engineering,Artificial Intelligence and Data Science,NONE,AK25MR,AK25EV064,arsh,2025-11-10T11:14:03.343Z
+6911c9602af56e2ab4bfda3d,result_1762773344287,Marine Engineering,Artificial Intelligence and Machine Learning,NONE,AK25MR,AK25EV066,arsh,2025-11-10T11:15:44.287Z
+6911c9862af56e2ab4bfda3e,result_1762773382119,Marine Engineering,Marine Engineering,NONE,AK25MR,AK25EV068,arsh,2025-11-10T11:16:22.119Z
+6911c9e82af56e2ab4bfda3f,result_1762773480211,Electronics and Communication Engineering,Physics cycle,Physics cycle,AK25KS,AK25EV074,arsh,2025-11-10T11:18:00.211Z
+6911ca162af56e2ab4bfda40,result_1762773526041,Physics cycle,Physics cycle,NONE,AK25KS,AK25EV073,arsh,2025-11-10T11:18:46.041Z
+6911ca632af56e2ab4bfda41,result_1762773603174,Artificial Intelligence and Data Science,Computer Science and Business Systems,Physics cycle,AK25KS,AK25EV075,arsh,2025-11-10T11:20:03.174Z
+6911cabd2af56e2ab4bfda42,result_1762773693010,Mechanical Engineering,Artificial Intelligence and Data Science,NONE,AK25ME,AK25EV059,arsh,2025-11-10T11:21:33.010Z
+6911cad32af56e2ab4bfda43,result_1762773715334,Mechanical Engineering,Mechanical Engineering,NONE,AK25ME,AK25EV060,arsh,2025-11-10T11:21:55.334Z
+6911cb082af56e2ab4bfda44,result_1762773768196,Master of Business Administration,Artificial Intelligence and Machine Learning,NONE,AK25ME,AK25EV063,arsh,2025-11-10T11:22:48.196Z
+6911cc482af56e2ab4bfda45,result_1762774088249,Mechanical Engineering,Automobile Engineering,NONE,AK25ME,AK25EV062,arsh,2025-11-10T11:28:08.249Z
+6911d4042af56e2ab4bfda4d,result_1762776068330,Artificial Intelligence and Data Science,Artificial Intelligence and Data Science,NONE,AK25ME,AK25EV061,arsh,2025-11-10T12:01:08.330Z
+6911d4202af56e2ab4bfda4e,result_1762776096667,Electronics and Communication Engineering,Artificial Intelligence and Data Science,NONE,AK25ECE,AK25EV046,arsh,2025-11-10T12:01:36.667Z
+6911d44e2af56e2ab4bfda4f,result_1762776142689,Master of Computer Applications,Artificial Intelligence and Data Science,Chemistry cycle,AK25AIDS,AK25EV072,arsh,2025-11-10T12:02:22.689Z
+6911d4762af56e2ab4bfda50,result_1762776182242,Artificial Intelligence and Machine Learning,Computer Science Engineering,Artificial Intelligence and Machine Learning,AK25AIDS,AK25EV071,arsh,2025-11-10T12:03:02.242Z
+6911d48f2af56e2ab4bfda51,result_1762776207222,Artificial Intelligence and Data Science,Artificial Intelligence and Machine Learning,Artificial Intelligence and Machine Learning,AK25AIDS,AK25EV070,arsh,2025-11-10T12:03:27.222Z
+6911d54c2af56e2ab4bfda53,result_1762776396630,Artificial Intelligence and Data Science,Artificial Intelligence and Machine Learning,Artificial Intelligence and Data Science,AK25AIDS,AK25EV069,NIRJARA,2025-11-10T12:06:36.630Z
+6911d5c02af56e2ab4bfda54,result_1762776512729,Information Science Engineering,Electronics and Communication Engineering,NONE,AK25AU,AK25EV017,NIRJARA,2025-11-10T12:08:32.729Z
+6911d5e02af56e2ab4bfda55,result_1762776544931,Computer Science Engineering,Master of Business Administration,NONE,AK25AU,AK25EV016,NIRJARA,2025-11-10T12:09:04.931Z
+6911d6062af56e2ab4bfda56,result_1762776582819,Artificial Intelligence and Machine Learning,Automobile Engineering,NONE,AK25AU,AK25EV014,NIRJARA,2025-11-10T12:09:42.819Z
+6911d65f2af56e2ab4bfda57,result_1762776671880,NONE,NONE,NONE,AK25AE,AK25EV005,NIRJARA,2025-11-10T12:11:11.880Z
+6911d67a2af56e2ab4bfda58,result_1762776698326,Aeronautical Engineering,NONE,NONE,AK25AE,AK25EV006,NIRJARA,2025-11-10T12:11:38.326Z
+6911d6952af56e2ab4bfda59,result_1762776725026,Aeronautical Engineering,Automobile Engineering,NONE,AK25AE,AK25EV002,NIRJARA,2025-11-10T12:12:05.026Z
+6911d6b02af56e2ab4bfda5a,result_1762776752465,Aeronautical Engineering,Automobile Engineering,NONE,AK25AE,AK25EV003,NIRJARA,2025-11-10T12:12:32.465Z
+6911d6d52af56e2ab4bfda5b,result_1762776789195,Electronics and Communication Engineering,Artificial Intelligence and Data Science,NONE,AK25ECE,AK25EV047,mouna,2025-11-10T12:13:09.195Z
+6911d6d52af56e2ab4bfda5c,result_1762776789729,Electronics and Communication Engineering,Electronics and Communication Engineering,NONE,AK25ECE,AK25EV045,NIRJARA,2025-11-10T12:13:09.729Z
+6911d7032af56e2ab4bfda5e,result_1762776835528,Computer Science Engineering,Computer Science Engineering,NONE,AK25CSE,AK25EV052,mouna,2025-11-10T12:13:55.528Z
+6911d7482af56e2ab4bfda5f,result_1762776904630,Chemistry cycle,Artificial Intelligence and Data Science,NONE,AK25AE,AK25EV001,mouna,2025-11-10T12:15:04.630Z
+6911d76d2af56e2ab4bfda60,result_1762776941323,Aeronautical Engineering,NONE,NONE,AK25AE,AK25EV004,mouna,2025-11-10T12:15:41.323Z
+6911d7872af56e2ab4bfda61,result_1762776967855,Information Science Engineering,Computer Science Engineering,Information Science Engineering,AK25CSE,AK25EV051,mouna,2025-11-10T12:16:07.855Z
+6911d7a52af56e2ab4bfda62,result_1762776997163,Chemistry cycle,NONE,NONE,AK25AU,AK25EV015,mouna,2025-11-10T12:16:37.163Z
+6911d8da2af56e2ab4bfda63,result_1762777306025,NONE,Computer Science and Business Systems,NONE,AK25AU,AK25EV013,NIRJARA,2025-11-10T12:21:46.025Z
+6911d91d2af56e2ab4bfda64,result_1762777373473,Artificial Intelligence and Machine Learning,Computer Science Engineering,Artificial Intelligence and Machine Learning,AK25MBA,AK25EV031,NIRJARA,2025-11-10T12:22:53.473Z
+6911d9272af56e2ab4bfda65,result_1762777383914,Master of Business Administration,Master of Business Administration,Master of Business Administration,AK25MBA,AK25EV029,mouna,2025-11-10T12:23:03.914Z
+6911d9482af56e2ab4bfda66,result_1762777416058,Master of Business Administration,Master of Business Administration,Master of Business Administration,AK25MBA,AK25EV028,mouna,2025-11-10T12:23:36.058Z
+6911d98f2af56e2ab4bfda67,result_1762777487879,Computer Science and Design,Information Science Engineering,Artificial Intelligence and Data Science,AK25MBA,AK25EV030,NIRJARA,2025-11-10T12:24:47.879Z
+6912ab6a14c713f28294c5fc,result_1762831210857,Master of Computer Applications,Master of Computer Applications,NONE,AK25MCA,AK25EV057,arsh,2025-11-11T03:20:10.857Z
+6912b217ff3510bb69c701bb,result_1762832919774,Master of Computer Applications,Artificial Intelligence and Machine Learning,NONE,AK25MCA,AK25EV055,arsh,2025-11-11T03:48:39.774Z
+6912b23dff3510bb69c701bc,result_1762832957145,Artificial Intelligence and Data Science,Artificial Intelligence and Data Science,NONE,AK25MCA,AK25EV054,arsh,2025-11-11T03:49:17.145Z
+6912b25cff3510bb69c701bd,result_1762832988896,Information Science Engineering,Master of Computer Applications,NONE,AK25MCA,AK25EV053,arsh,2025-11-11T03:49:48.896Z
+6912b290ff3510bb69c701be,result_1762833040703,Master of Computer Applications,NONE,Master of Computer Applications,AK25MCA,AK25EV058,arsh,2025-11-11T03:50:40.703Z
+6912b2bdff3510bb69c701bf,result_1762833085984,Master of Computer Applications,Master of Computer Applications,NONE,AK25MCA,AK25EV056,arsh,2025-11-11T03:51:25.984Z

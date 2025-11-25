@@ -1,0 +1,14 @@
+Large language model (LLM) applications, such as chatbots, are unlocking powerful benefits across industries. Organizations use LLMs to reduce operational costs, boost employee productivity, and deliver more-personalized customer experiences.
+
+As organizations like yours race to turn this revolutionary technology into a competitive edge, a significant portion will first need to customize off-the-shelf LLMs to their organization’s data so models can deliver business-specific AI results. However, the cost and time investments required by fine-tuning models can create sizable roadblocks that hold many would-be innovators back.
+
+To overcome these barriers, retrieval-augmented generation (RAG) offers a more cost-effective approach to LLM customization. By enabling you to ground models on your proprietary data without fine-tuning, RAG can help you quickly launch LLM applications tailored to your business or customers. Instead of requiring retraining or fine-tuning, the RAG approach allows you to connect the off-the-shelf LLM to a curated external knowledge base built on your organization’s unique, proprietary data. This knowledge base informs the model’s output with organization-specific context and information.
+
+In this article, you’ll learn how to set up key components of your RAG implementation, from choosing your hardware and software foundations to building your knowledge base and optimizing your application in production. We’ll also share tools and resources that can help you get the most power and efficiency out of each phase of the pipeline.
+
+When Is RAG the Right Approach?
+Before you start evaluating pipeline building blocks, it’s important to consider whether RAG or fine-tuning is the best fit for your LLM application.
+
+Both approaches start with a foundational LLM, offering a shorter pathway to customized LLMs than training a model from scratch. Foundational models have been pretrained and don’t require access to massive datasets, a team of data experts, or extra computing power for training.
+
+However, once you choose a foundational model, you’ll still need to customize it to your business, so your model can deliver results that address your challenges and needs. RAG can be a great fit for your LLM application if you don’t have the time or money to invest in fine-tuning. RAG also reduces the risk of hallucinations, can provide sources for its outputs to improve explainability, and offers security benefits since sensitive information can be kept safely in private databases.
